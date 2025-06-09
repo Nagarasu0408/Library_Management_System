@@ -12,3 +12,4 @@ C:\WNS\Workspace\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
 C:\WNS\Workspace\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
 C:\WNS\Workspace\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
 C:\WNS\Workspace\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
+C:\WNS\Workspace\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
